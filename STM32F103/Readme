@@ -1,0 +1,5 @@
+A minimalist implementaiton of ballsic chrono on STM32F103/BluePill
+
+Details here: https://dannyelectronics.wordpress.com/2020/08/05/ghetto-ballistic-chrono-proof-of-concept/
+
+Compiler tested: Keil 4.x and GCC
