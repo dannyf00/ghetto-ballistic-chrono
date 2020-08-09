@@ -1,0 +1,5 @@
+A minimalist implementation of ballsic chrono on Arduino / ATMega328 and compatible devices
+
+Details here: https://dannyelectronics.wordpress.com/2020/08/05/ghetto-ballistic-chrono-proof-of-concept/
+
+Compiler: Arduino / GCC
